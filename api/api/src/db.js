@@ -28,7 +28,7 @@ let sequelize =
         },
         ssl: true,
       })
-    : new Sequelize(`postgres://postgres:1234@localhost/techshop`, {
+    : new Sequelize(`postgres://postgres:guachin123@localhost/techshop`, {
         logging: false,
         native: false,
       });
