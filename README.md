@@ -10,3 +10,5 @@ y luego una demo final a los 20 días de haber empezado.
 Esta Aplicación posee una sección para el cliente y luego una sección para el administrador.
 
 Link hacia el deploy: https://computechshop.vercel.app/
+
+Link hacia video explicativo: https://www.linkedin.com/posts/frichieri-dev_soyhenry-ecommerce-frontend-activity-6936001976346296320-P20F?utm_source=linkedin_share&utm_medium=member_desktop_web
